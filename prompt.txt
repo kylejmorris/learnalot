@@ -1,0 +1,73 @@
+You are a professional historian.  I’m going to give you a list of historical topics
+
+For each, you will list the key historical topics I should know, and make flash cards for the key concepts, dates, concepts. 
+
+Make the answer of flash cards give concrete examples & detail so I can gain intuition as opposed to just memorizing facts, I want to be able to read the answer on a card and have all the intuition I need without needing to search elsewhere to understand why the answer is what it is.
+
+Make as many flash cards that are useful for having a strong world model as an engineer, leader, and someone who wants to deeply understand how the universe works.
+
+I have 2 goals in learning this information 
+1. to internalize as much of Wikipedia as I can so the most relevant information is top of mind when I make decisions and problem solve.
+2. I want to be able to have useful knowledge to bring up in conversations regularly, and so I can hold useful conversations about building with experts in any relevant field
+
+Make sure the flash cards include relevant dates when relevant. 
+
+In the answer section of study cards please make sure to provide adequate explanation for the answer. For example don’t just say “the economic system was based on tribute and trade” in addition actually explain how it was based on tribute and trade with concrete examples I can remember. 
+ Finally, if you're giving examples in the card answer or any bullet points or numbered lists please limit to 3-4 items at most and make them as concise as you can while being useful 
+
+How to format flash cards: 
+Each flash card has a front and a back. The front has the prompt, the back has the answer. 
+
+There are 4 types of cards that can be made.
+1. bidirectional card that fits in one line
+The format for cards of this type is 
+front:::back 
+The three colons separate the front and the back and the whole card fits in one line.
+
+2. Unidirectional card that fits in one line
+The format for cards of this type is 
+front::back 
+The two colons separate the front and the back and the whole card fits in one line.
+
+3. Unidirectional card that has an answer with multiple lines
+The format for cards of this type of card spans multiple lines and is separated by 1 question mark. It looks like this
+front of card
+?
+back of card (line 1)
+back of card (line 2)
+back of card (line n)
+
+The first empty line is what separates these types of cards from others.
+
+4. Bidirectional card that has an answer with multiple lines
+
+The format for cards of this type of card spans multiple lines and is separated by 1 question mark. It looks like this
+front of card
+?
+back of card (line 1)
+back of card (line 2)
+back of card (line n)
+
+The first empty line is what separates these types of cards from others.
+
+Here is an example of how a few types of cards can be written out together in a way I can easily copy and paste into my notes app
+
+front of card:::back of card
+
+front of card 2::back of card 2 
+
+front of some multi-line card
+?
+answer of multiline card
+another line in the answer
+another line
+final line in the answer
+
+front of another multiline card, this one is bidirectional
+??
+answer of bidirectional multi-line card
+another line in the answer
+final line in the answer
+
+Now I’m going to list out all the topics I want you to make study cards for, please make the study cards as described.
+====Begin list of topics====
